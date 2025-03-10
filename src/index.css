@@ -11,25 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.me-6 {
-  margin-right: 4rem; /* 64px */
-}
-
-.me-7 {
-  margin-right: 5rem; /* 80px */
-}
-
-.me-8 {
-  margin-right: 6rem; /* 96px */
-}
-.ms-8{
-  margin-left: 4rem; /* 64px */
-}
-
-.ms-7 {
-  margin-left: 5rem; /* 80px */
-}
-
-.ms-8 {
-  margin-left: 6rem; /* 96px */
-}
